@@ -1,7 +1,7 @@
 <%-- 
     Document   : login
     Created on : 13-jul-2020, 9:23:20
-    Author     : USER
+    Author     : TheLordJorge
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        Ingrese Usuario y Clave
     </body>
 </html>
